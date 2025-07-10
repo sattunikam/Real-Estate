@@ -60,7 +60,7 @@ const Navbar = () => {
               onClick={() => setshowMobileMenu(false)}
               src={assets.cross_icon}
               className="w-6"
-              alt=""
+              alt="cross icon"
             />
           </div>
           <ul className="flex flex-col items-center gap-2 mt-5 px-5 text-lg font-medium">

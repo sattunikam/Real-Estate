@@ -17,13 +17,13 @@ const Header = () => {
           <div className="space-x-6 mt-16">
             <a
               href="#Testimonials"
-              className="px-8 py-3 border border-white rounded hover:text-amber-500 hover:border-amber-500"
+              className="px-2 py-3 border sm:px-6 sm:py-4 border-white rounded hover:text-amber-500 hover:border-amber-500"
             >
               Testimonials
             </a>
             <a
               href="#Contact"
-              className="px-8 py-3 bg-blue-500 rounded hover:bg-blue-800"
+              className="px-2 py-3 bg-blue-500 sm:px-6 sm:py-4 rounded hover:bg-blue-800"
             >
               Contact Us
             </a>
