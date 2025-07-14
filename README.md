@@ -12,17 +12,11 @@ A fully responsive real estate website built with **React.js** and **Tailwind CS
 - ✨ Minimal **hover effects** and **animations** for enhanced UX
 - 📂 Easy to scale and customize property listings
 
-## 📷 Screenshots
-
-![Homepage Screenshot](./public/screenshots/homepage.png)  
-*Add your own screenshots here*
-
 ## 📦 Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
 - **Form Handling:** Web3Forms
 - **Notifications:** React Toastify
 
-## 📁 Folder Structure
 
 
